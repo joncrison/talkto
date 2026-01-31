@@ -1,0 +1,1057 @@
+{
+  "metros": {
+    "los-angeles": {
+      "name": "Los Angeles",
+      "zipPrefixes": ["900", "901", "902", "903", "904", "905", "906", "907", "908", "910", "911", "912", "913", "914", "915", "916", "917", "918"]
+    },
+    "new-york": {
+      "name": "New York City",
+      "zipPrefixes": ["100", "101", "102", "103", "104", "105", "106", "107", "108", "109", "110", "111", "112", "113", "114", "115", "116", "117", "118", "119"]
+    },
+    "chicago": {
+      "name": "Chicago",
+      "zipPrefixes": ["606", "607", "608", "609", "600", "601", "602", "603", "604", "605"]
+    },
+    "washington-dc": {
+      "name": "Washington DC",
+      "zipPrefixes": ["200", "201", "202", "203", "204", "205", "206", "207", "208", "209", "220", "221", "222"]
+    }
+  },
+  "localOrgs": [
+    {
+      "metro": "los-angeles",
+      "category": "environment",
+      "organizations": [
+        {
+          "name": "Heal the Bay",
+          "mission": "Protects Santa Monica Bay and local watersheds through science, education, and advocacy.",
+          "website": "https://healthebay.org",
+          "local": true
+        },
+        {
+          "name": "Los Angeles Conservation Corps",
+          "mission": "Provides job training and education to young adults while working on conservation projects across LA.",
+          "website": "https://lacorps.org",
+          "local": true
+        },
+        {
+          "name": "TreePeople",
+          "mission": "Inspires and supports people to plant and care for trees, creating sustainable urban forests in LA.",
+          "website": "https://www.treepeople.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "voting-rights",
+      "organizations": [
+        {
+          "name": "LA Voice",
+          "mission": "Multi-faith organization building power in communities to advance justice, including voter engagement.",
+          "website": "https://lavoice.org",
+          "local": true
+        },
+        {
+          "name": "CHIRLA",
+          "mission": "Coalition for Humane Immigrant Rights - includes voter registration and civic engagement for immigrant communities.",
+          "website": "https://www.chirla.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "civil-rights",
+      "organizations": [
+        {
+          "name": "ACLU SoCal",
+          "mission": "Defends civil liberties throughout Southern California through litigation, advocacy, and education.",
+          "website": "https://www.aclusocal.org",
+          "local": true
+        },
+        {
+          "name": "Advancement Project California",
+          "mission": "Multi-racial civil rights organization working on educational equity and justice reform.",
+          "website": "https://www.advancementprojectca.org",
+          "local": true
+        },
+        {
+          "name": "LA Black Worker Center",
+          "mission": "Fights for the rights of Black workers through advocacy, organizing, and policy change.",
+          "website": "https://lablackworkercenter.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "lgbtq",
+      "organizations": [
+        {
+          "name": "Los Angeles LGBT Center",
+          "mission": "World's largest LGBTQ organization providing health, social, and housing services.",
+          "website": "https://lalgbtcenter.org",
+          "local": true
+        },
+        {
+          "name": "APAIT",
+          "mission": "Serves Asian and Pacific Islander communities with HIV/AIDS services and LGBTQ support.",
+          "website": "https://apaitonline.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "immigration",
+      "organizations": [
+        {
+          "name": "CHIRLA",
+          "mission": "Largest immigrant rights organization in California, providing legal services and advocacy.",
+          "website": "https://www.chirla.org",
+          "local": true
+        },
+        {
+          "name": "CARECEN",
+          "mission": "Central American Resource Center provides immigration legal services and community programs.",
+          "website": "https://www.carecen-la.org",
+          "local": true
+        },
+        {
+          "name": "Homeboy Industries",
+          "mission": "Provides job training and support services, including immigration legal help for formerly incarcerated individuals.",
+          "website": "https://homeboyindustries.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "housing",
+      "organizations": [
+        {
+          "name": "LA Family Housing",
+          "mission": "Helps families transition out of homelessness through housing and supportive services.",
+          "website": "https://lafh.org",
+          "local": true
+        },
+        {
+          "name": "Union Station Homeless Services",
+          "mission": "Provides comprehensive homeless services in the San Gabriel Valley.",
+          "website": "https://unionstationhs.org",
+          "local": true
+        },
+        {
+          "name": "PATH (People Assisting The Homeless)",
+          "mission": "Ends homelessness for individuals and families throughout Southern California.",
+          "website": "https://epath.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "education",
+      "organizations": [
+        {
+          "name": "826LA",
+          "mission": "Nonprofit tutoring and writing center for students ages 6-18 in Los Angeles.",
+          "website": "https://826la.org",
+          "local": true
+        },
+        {
+          "name": "Heart of Los Angeles (HOLA)",
+          "mission": "Provides free afterschool programs in academics, arts, and athletics to underserved youth.",
+          "website": "https://www.heartofla.org",
+          "local": true
+        },
+        {
+          "name": "Reading Partners Los Angeles",
+          "mission": "Mobilizes volunteers to provide one-on-one reading tutoring to elementary students.",
+          "website": "https://readingpartners.org/location/los-angeles/",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "healthcare",
+      "organizations": [
+        {
+          "name": "St. John's Well Child and Family Center",
+          "mission": "Community health centers serving uninsured and underserved residents of South and Central LA.",
+          "website": "https://www.wellchild.org",
+          "local": true
+        },
+        {
+          "name": "APLA Health",
+          "mission": "Provides healthcare and services for people affected by HIV and the LGBTQ+ community.",
+          "website": "https://aplahealth.org",
+          "local": true
+        },
+        {
+          "name": "Venice Family Clinic",
+          "mission": "Provides free healthcare to people in need throughout Los Angeles County.",
+          "website": "https://www.venicefamilyclinic.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "gun-safety",
+      "organizations": [
+        {
+          "name": "Youth Alive",
+          "mission": "Prevents violence and creates young leaders in Oakland and LA through intervention programs.",
+          "website": "https://www.youthalive.org",
+          "local": true
+        },
+        {
+          "name": "Guns Down America",
+          "mission": "Works to change the role guns play in American life through LA-based advocacy.",
+          "website": "https://gunsdownamerica.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "reproductive-rights",
+      "organizations": [
+        {
+          "name": "Planned Parenthood Los Angeles",
+          "mission": "Provides reproductive healthcare and education throughout Los Angeles County.",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-los-angeles",
+          "local": true
+        },
+        {
+          "name": "ACCESS Reproductive Justice",
+          "mission": "Helps Californians access abortion and other reproductive healthcare regardless of income.",
+          "website": "https://accessrj.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "religious-freedom",
+      "organizations": [
+        {
+          "name": "NewGround: A Muslim-Jewish Partnership",
+          "mission": "Builds relationships between Muslim and Jewish communities in Los Angeles.",
+          "website": "https://www.newgroundla.org",
+          "local": true
+        },
+        {
+          "name": "LA Voice",
+          "mission": "Multi-faith organization advancing justice through congregational organizing.",
+          "website": "https://lavoice.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "los-angeles",
+      "category": "veterans",
+      "organizations": [
+        {
+          "name": "U.S. Vets - Los Angeles",
+          "mission": "Largest nonprofit veteran services organization, providing housing and support in LA.",
+          "website": "https://usvets.org/locations/los-angeles/",
+          "local": true
+        },
+        {
+          "name": "Bob Hope Hollywood USO",
+          "mission": "Serves military families at LAX and throughout the LA area with programs and support.",
+          "website": "https://uso.org/locations/uso-los-angeles",
+          "local": true
+        }
+      ]
+    },
+
+    {
+      "metro": "new-york",
+      "category": "environment",
+      "organizations": [
+        {
+          "name": "Riverkeeper",
+          "mission": "Protects the Hudson River and its tributaries through advocacy and legal action.",
+          "website": "https://www.riverkeeper.org",
+          "local": true
+        },
+        {
+          "name": "NYC Audubon",
+          "mission": "Protects wild birds and their habitat throughout the five boroughs.",
+          "website": "https://www.nycaudubon.org",
+          "local": true
+        },
+        {
+          "name": "GrowNYC",
+          "mission": "Improves NYC's quality of life through environmental programs including greenmarkets and gardens.",
+          "website": "https://www.grownyc.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "voting-rights",
+      "organizations": [
+        {
+          "name": "New York Civic Engagement Table",
+          "mission": "Coalition of organizations working to increase civic participation across New York.",
+          "website": "https://nycet.org",
+          "local": true
+        },
+        {
+          "name": "Citizens Union",
+          "mission": "Good government group working to make democracy work for all New Yorkers.",
+          "website": "https://citizensunion.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "civil-rights",
+      "organizations": [
+        {
+          "name": "NYCLU",
+          "mission": "New York Civil Liberties Union defends civil rights throughout New York State.",
+          "website": "https://www.nyclu.org",
+          "local": true
+        },
+        {
+          "name": "LatinoJustice PRLDEF",
+          "mission": "Uses litigation, advocacy, and education to advance civil rights for Latinos.",
+          "website": "https://www.latinojustice.org",
+          "local": true
+        },
+        {
+          "name": "Brooklyn Defender Services",
+          "mission": "Provides legal representation and advocacy for Brooklyn residents facing injustice.",
+          "website": "https://bds.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "lgbtq",
+      "organizations": [
+        {
+          "name": "Ali Forney Center",
+          "mission": "Largest organization helping LGBTQ+ homeless youth in the US, based in NYC.",
+          "website": "https://www.aliforneycenter.org",
+          "local": true
+        },
+        {
+          "name": "GMHC",
+          "mission": "World's first HIV/AIDS service organization, providing care and advocacy in NYC.",
+          "website": "https://www.gmhc.org",
+          "local": true
+        },
+        {
+          "name": "Callen-Lorde",
+          "mission": "Community health center dedicated to LGBTQ+ people in New York City.",
+          "website": "https://callen-lorde.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "immigration",
+      "organizations": [
+        {
+          "name": "Make the Road New York",
+          "mission": "Builds immigrant and working class community power through organizing and services.",
+          "website": "https://maketheroadny.org",
+          "local": true
+        },
+        {
+          "name": "New York Immigration Coalition",
+          "mission": "Umbrella organization for over 200 groups advocating for immigrant rights in NY.",
+          "website": "https://www.nyic.org",
+          "local": true
+        },
+        {
+          "name": "Catholic Charities NY Immigration Services",
+          "mission": "Provides legal immigration services to New Yorkers regardless of religion.",
+          "website": "https://catholiccharitiesny.org/what-we-do/immigrant-refugee-services",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "housing",
+      "organizations": [
+        {
+          "name": "Coalition for the Homeless",
+          "mission": "Advocates for homeless New Yorkers through litigation, advocacy, and direct services.",
+          "website": "https://www.coalitionforthehomeless.org",
+          "local": true
+        },
+        {
+          "name": "Breaking Ground",
+          "mission": "Creates supportive housing for homeless and vulnerable New Yorkers.",
+          "website": "https://breakingground.org",
+          "local": true
+        },
+        {
+          "name": "Housing Works",
+          "mission": "Provides housing and services to homeless people living with HIV/AIDS in NYC.",
+          "website": "https://www.housingworks.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "education",
+      "organizations": [
+        {
+          "name": "826NYC",
+          "mission": "Nonprofit writing and tutoring center for NYC students ages 6-18.",
+          "website": "https://826nyc.org",
+          "local": true
+        },
+        {
+          "name": "New York Cares",
+          "mission": "Runs volunteer programs across NYC including tutoring and school support.",
+          "website": "https://www.newyorkcares.org",
+          "local": true
+        },
+        {
+          "name": "Literacy Inc.",
+          "mission": "Helps NYC children develop early literacy skills through family engagement.",
+          "website": "https://www.lincnyc.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "healthcare",
+      "organizations": [
+        {
+          "name": "NYC Health + Hospitals",
+          "mission": "Public health system providing care to all New Yorkers regardless of ability to pay.",
+          "website": "https://www.nychealthandhospitals.org",
+          "local": true
+        },
+        {
+          "name": "The Door",
+          "mission": "Comprehensive youth development center offering health services to NYC young people.",
+          "website": "https://door.org",
+          "local": true
+        },
+        {
+          "name": "Ryan Health",
+          "mission": "Federally qualified health centers serving communities throughout Manhattan.",
+          "website": "https://www.rfrh.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "gun-safety",
+      "organizations": [
+        {
+          "name": "New Yorkers Against Gun Violence",
+          "mission": "State advocacy organization working to reduce gun violence through policy change.",
+          "website": "https://www.nyagv.org",
+          "local": true
+        },
+        {
+          "name": "LIFE Camp Inc.",
+          "mission": "Violence intervention organization providing crisis response in NYC communities.",
+          "website": "https://www.lifecampinc.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "reproductive-rights",
+      "organizations": [
+        {
+          "name": "Planned Parenthood of Greater New York",
+          "mission": "Provides reproductive healthcare throughout the NYC metro area.",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-greater-new-york",
+          "local": true
+        },
+        {
+          "name": "New York Abortion Access Fund",
+          "mission": "Helps fund abortions for those who cannot afford the full cost in New York.",
+          "website": "https://nyaaf.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "religious-freedom",
+      "organizations": [
+        {
+          "name": "Interfaith Center of New York",
+          "mission": "Builds understanding across religious communities in NYC through dialogue and action.",
+          "website": "https://interfaithcenter.org",
+          "local": true
+        },
+        {
+          "name": "CAIR-NY",
+          "mission": "Defends civil rights of American Muslims in the New York area.",
+          "website": "https://www.cair-ny.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "new-york",
+      "category": "veterans",
+      "organizations": [
+        {
+          "name": "NYC Veterans Alliance",
+          "mission": "Member-based advocacy organization for NYC's veteran community.",
+          "website": "https://www.nycveteransalliance.org",
+          "local": true
+        },
+        {
+          "name": "The Headstrong Project",
+          "mission": "Provides cost-free mental health treatment to veterans in the NYC area.",
+          "website": "https://theheadstrongproject.org",
+          "local": true
+        }
+      ]
+    },
+
+    {
+      "metro": "chicago",
+      "category": "environment",
+      "organizations": [
+        {
+          "name": "Openlands",
+          "mission": "Protects natural and open spaces in northeastern Illinois for people and wildlife.",
+          "website": "https://openlands.org",
+          "local": true
+        },
+        {
+          "name": "Alliance for the Great Lakes",
+          "mission": "Protects and restores the Great Lakes through policy, education, and action.",
+          "website": "https://greatlakes.org",
+          "local": true
+        },
+        {
+          "name": "Chicago Conservation Corps",
+          "mission": "Engages diverse volunteers in restoring and caring for Chicago's natural areas.",
+          "website": "https://www.chicagoconservationcorps.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "voting-rights",
+      "organizations": [
+        {
+          "name": "Chicago Votes",
+          "mission": "Builds power for young Chicagoans through voter registration and civic engagement.",
+          "website": "https://chicagovotes.com",
+          "local": true
+        },
+        {
+          "name": "League of Women Voters of Chicago",
+          "mission": "Empowers Chicago voters through registration, education, and advocacy.",
+          "website": "https://lwvchicago.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "civil-rights",
+      "organizations": [
+        {
+          "name": "ACLU of Illinois",
+          "mission": "Protects civil liberties throughout Illinois through litigation and advocacy.",
+          "website": "https://www.aclu-il.org",
+          "local": true
+        },
+        {
+          "name": "Chicago Lawyers' Committee for Civil Rights",
+          "mission": "Provides legal services advancing civil rights for underserved communities.",
+          "website": "https://www.clccrul.org",
+          "local": true
+        },
+        {
+          "name": "BYP100 Chicago",
+          "mission": "Black Youth Project organizing for freedom and liberation in Chicago.",
+          "website": "https://www.byp100.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "lgbtq",
+      "organizations": [
+        {
+          "name": "Center on Halsted",
+          "mission": "Midwest's largest LGBTQ+ community center, providing programs and services.",
+          "website": "https://www.centeronhalsted.org",
+          "local": true
+        },
+        {
+          "name": "Howard Brown Health",
+          "mission": "Healthcare for LGBTQ+ communities and others in Chicago through multiple clinics.",
+          "website": "https://howardbrown.org",
+          "local": true
+        },
+        {
+          "name": "Brave Space Alliance",
+          "mission": "First Black-led, trans-led LGBTQ+ center on the South Side of Chicago.",
+          "website": "https://www.bravespacealliance.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "immigration",
+      "organizations": [
+        {
+          "name": "Illinois Coalition for Immigrant and Refugee Rights",
+          "mission": "Statewide coalition promoting immigrant and refugee rights in Illinois.",
+          "website": "https://www.icirr.org",
+          "local": true
+        },
+        {
+          "name": "National Immigrant Justice Center",
+          "mission": "Provides legal services to immigrants, refugees, and asylum seekers in Chicago.",
+          "website": "https://immigrantjustice.org",
+          "local": true
+        },
+        {
+          "name": "Resurrection Project",
+          "mission": "Builds community wealth through immigration services, housing, and education.",
+          "website": "https://resurrectionproject.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "housing",
+      "organizations": [
+        {
+          "name": "Chicago Coalition for the Homeless",
+          "mission": "Advocates to prevent and end homelessness through systemic change in Chicago.",
+          "website": "https://www.chicagohomeless.org",
+          "local": true
+        },
+        {
+          "name": "All Chicago",
+          "mission": "Coordinates homeless services and prevention efforts across Chicago.",
+          "website": "https://allchicago.org",
+          "local": true
+        },
+        {
+          "name": "Habitat for Humanity Chicago",
+          "mission": "Builds and repairs homes for Chicago families in need of affordable housing.",
+          "website": "https://habitatchicago.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "education",
+      "organizations": [
+        {
+          "name": "826CHI",
+          "mission": "Nonprofit tutoring and writing center for Chicago students ages 6-18.",
+          "website": "https://826chi.org",
+          "local": true
+        },
+        {
+          "name": "OneGoal Chicago",
+          "mission": "Helps students from under-resourced high schools get to and through college.",
+          "website": "https://www.onegoalgraduation.org",
+          "local": true
+        },
+        {
+          "name": "Chicago Youth Programs",
+          "mission": "Provides mentoring and academic support to youth on Chicago's South Side.",
+          "website": "https://chicagoyouthprograms.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "healthcare",
+      "organizations": [
+        {
+          "name": "Erie Family Health Centers",
+          "mission": "Community health centers serving Chicago's underserved communities.",
+          "website": "https://www.eriefamilyhealth.org",
+          "local": true
+        },
+        {
+          "name": "CommunityHealth",
+          "mission": "Free healthcare for uninsured adults in Chicago through volunteer providers.",
+          "website": "https://communityhealth.org",
+          "local": true
+        },
+        {
+          "name": "PCC Community Wellness Center",
+          "mission": "Federally qualified health center serving Chicago's Austin and West Side communities.",
+          "website": "https://pfrh.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "gun-safety",
+      "organizations": [
+        {
+          "name": "CURE Violence Chicago",
+          "mission": "Treats violence as a disease using trained interrupters in Chicago neighborhoods.",
+          "website": "https://cvg.org",
+          "local": true
+        },
+        {
+          "name": "Chicago CRED",
+          "mission": "Comprehensive program to reduce gun violence on Chicago's South and West sides.",
+          "website": "https://www.chicagocred.org",
+          "local": true
+        },
+        {
+          "name": "G.R.E.A.T. Youth Development",
+          "mission": "Violence prevention and youth development on Chicago's South Side.",
+          "website": "https://www.greatyouth.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "reproductive-rights",
+      "organizations": [
+        {
+          "name": "Planned Parenthood Illinois",
+          "mission": "Provides reproductive healthcare at health centers throughout Illinois.",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-illinois",
+          "local": true
+        },
+        {
+          "name": "Chicago Abortion Fund",
+          "mission": "Provides financial assistance for abortion care to those in the Midwest.",
+          "website": "https://www.chicagoabortionfund.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "religious-freedom",
+      "organizations": [
+        {
+          "name": "Council of Islamic Organizations of Greater Chicago",
+          "mission": "Serves and represents Muslim communities in the Chicago area.",
+          "website": "https://www.ciogc.org",
+          "local": true
+        },
+        {
+          "name": "Interfaith Youth Core",
+          "mission": "Chicago-based organization promoting interfaith cooperation on college campuses.",
+          "website": "https://ifyc.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "chicago",
+      "category": "veterans",
+      "organizations": [
+        {
+          "name": "Chicago Veterans",
+          "mission": "Connects Chicago-area veterans with resources, jobs, and community.",
+          "website": "https://chicagoveterans.org",
+          "local": true
+        },
+        {
+          "name": "Jesse Brown VA Medical Center",
+          "mission": "VA hospital providing healthcare to Chicago-area veterans.",
+          "website": "https://www.va.gov/chicago-health-care/",
+          "local": true
+        }
+      ]
+    },
+
+    {
+      "metro": "washington-dc",
+      "category": "environment",
+      "organizations": [
+        {
+          "name": "Anacostia Riverkeeper",
+          "mission": "Protects and restores the Anacostia River for DC communities.",
+          "website": "https://www.anacostiariverkeeper.org",
+          "local": true
+        },
+        {
+          "name": "Casey Trees",
+          "mission": "Restores, enhances, and protects DC's tree canopy through planting and education.",
+          "website": "https://caseytrees.org",
+          "local": true
+        },
+        {
+          "name": "Rock Creek Conservancy",
+          "mission": "Restores Rock Creek Park and connects DC residents to nature.",
+          "website": "https://www.rockcreekconservancy.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "voting-rights",
+      "organizations": [
+        {
+          "name": "DC Vote",
+          "mission": "Works to secure full voting rights and self-governance for DC residents.",
+          "website": "https://www.dcvote.org",
+          "local": true
+        },
+        {
+          "name": "League of Women Voters DC",
+          "mission": "Empowers DC voters and advocates for DC statehood.",
+          "website": "https://lwvdc.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "civil-rights",
+      "organizations": [
+        {
+          "name": "ACLU of DC",
+          "mission": "Protects civil liberties in the District of Columbia.",
+          "website": "https://www.acludc.org",
+          "local": true
+        },
+        {
+          "name": "Washington Lawyers' Committee",
+          "mission": "Provides pro bono legal services advancing civil rights in the DC area.",
+          "website": "https://www.washlaw.org",
+          "local": true
+        },
+        {
+          "name": "Black Lives Matter DC",
+          "mission": "Organizing for Black liberation and justice in Washington DC.",
+          "website": "https://www.dcblm.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "lgbtq",
+      "organizations": [
+        {
+          "name": "Whitman-Walker Health",
+          "mission": "Community health center serving LGBTQ+ people in the DC area.",
+          "website": "https://www.whitman-walker.org",
+          "local": true
+        },
+        {
+          "name": "SMYAL",
+          "mission": "Supports LGBTQ+ youth in the DC area through programs and services.",
+          "website": "https://www.smyal.org",
+          "local": true
+        },
+        {
+          "name": "Capital Pride Alliance",
+          "mission": "Celebrates and advocates for DC's LGBTQ+ community year-round.",
+          "website": "https://www.capitalpride.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "immigration",
+      "organizations": [
+        {
+          "name": "Ayuda",
+          "mission": "Provides legal, social, and language services to immigrants in the DC area.",
+          "website": "https://www.ayuda.com",
+          "local": true
+        },
+        {
+          "name": "CASA",
+          "mission": "Largest immigrant advocacy organization in the mid-Atlantic region.",
+          "website": "https://wearecasa.org",
+          "local": true
+        },
+        {
+          "name": "Capital Area Immigrants' Rights Coalition",
+          "mission": "Provides legal services to detained immigrants in the DC area.",
+          "website": "https://www.caircoalition.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "housing",
+      "organizations": [
+        {
+          "name": "Pathways to Housing DC",
+          "mission": "Housing First approach to end chronic homelessness in DC.",
+          "website": "https://pathwaystohousingdc.org",
+          "local": true
+        },
+        {
+          "name": "Miriam's Kitchen",
+          "mission": "Ends chronic homelessness in DC through housing services and daily meals.",
+          "website": "https://miriamskitchen.org",
+          "local": true
+        },
+        {
+          "name": "Coalition for Nonprofit Housing & Economic Development",
+          "mission": "Advocates for affordable housing and economic development in DC.",
+          "website": "https://www.cnhed.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "education",
+      "organizations": [
+        {
+          "name": "826DC",
+          "mission": "Nonprofit writing and tutoring center for DC students ages 6-18.",
+          "website": "https://826dc.org",
+          "local": true
+        },
+        {
+          "name": "DC SCORES",
+          "mission": "Combines soccer, poetry, and service-learning for DC public school students.",
+          "website": "https://dcscores.org",
+          "local": true
+        },
+        {
+          "name": "Higher Achievement",
+          "mission": "After-school and summer academic program for DC middle schoolers.",
+          "website": "https://higherachievement.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "healthcare",
+      "organizations": [
+        {
+          "name": "Bread for the City",
+          "mission": "Provides food, healthcare, and legal services to low-income DC residents.",
+          "website": "https://breadforthecity.org",
+          "local": true
+        },
+        {
+          "name": "Unity Health Care",
+          "mission": "Federally qualified health centers serving underserved DC communities.",
+          "website": "https://www.unityhealth.org",
+          "local": true
+        },
+        {
+          "name": "Mary's Center",
+          "mission": "Community health center serving immigrants and underserved families in DC.",
+          "website": "https://maryscenter.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "gun-safety",
+      "organizations": [
+        {
+          "name": "Alliance of Concerned Men",
+          "mission": "Community-based violence intervention in DC neighborhoods.",
+          "website": "https://www.allianceofconcernedmen.org",
+          "local": true
+        },
+        {
+          "name": "DC Peace Team",
+          "mission": "Reduces gun violence through community outreach and intervention in DC.",
+          "website": "https://dcpeaceteam.com",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "reproductive-rights",
+      "organizations": [
+        {
+          "name": "Planned Parenthood Metropolitan Washington",
+          "mission": "Provides reproductive healthcare in DC, Maryland, and Virginia.",
+          "website": "https://www.plannedparenthood.org/planned-parenthood-metropolitan-washington",
+          "local": true
+        },
+        {
+          "name": "DC Abortion Fund",
+          "mission": "Provides financial assistance for abortions in the DC area.",
+          "website": "https://dcabortionfund.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "religious-freedom",
+      "organizations": [
+        {
+          "name": "InterFaith Conference of Metropolitan Washington",
+          "mission": "Brings together diverse faith communities for dialogue and action in DC.",
+          "website": "https://ifcmw.org",
+          "local": true
+        },
+        {
+          "name": "Washington National Cathedral",
+          "mission": "Serves as a spiritual home for the nation with interfaith programs.",
+          "website": "https://cathedral.org",
+          "local": true
+        }
+      ]
+    },
+    {
+      "metro": "washington-dc",
+      "category": "veterans",
+      "organizations": [
+        {
+          "name": "Final Salute Inc.",
+          "mission": "Provides housing for homeless women veterans and their children in DC.",
+          "website": "https://finalsaluteinc.org",
+          "local": true
+        },
+        {
+          "name": "Veterans Multi-Service Center",
+          "mission": "Comprehensive services for veterans transitioning to civilian life.",
+          "website": "https://vmscpa.org",
+          "local": true
+        }
+      ]
+    }
+  ]
+}

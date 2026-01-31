@@ -1,0 +1,394 @@
+{
+  "categories": [
+    {
+      "id": "environment",
+      "name": "Environment / Climate",
+      "organizations": [
+        {
+          "name": "Sierra Club",
+          "mission": "Grassroots environmental organization focused on climate action, conservation, and clean energy advocacy.",
+          "website": "https://www.sierraclub.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.sierraclub.org/chapters"
+        },
+        {
+          "name": "350.org",
+          "mission": "Global grassroots climate movement working to end fossil fuels and build community-led renewable energy.",
+          "website": "https://350.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://350.org/get-involved/"
+        },
+        {
+          "name": "Citizens' Climate Lobby",
+          "mission": "Nonpartisan grassroots advocacy focused on national climate policy solutions.",
+          "website": "https://citizensclimatelobby.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://citizensclimatelobby.org/chapters/"
+        },
+        {
+          "name": "Sunrise Movement",
+          "mission": "Youth-led movement advocating for political action on climate change and good jobs.",
+          "website": "https://www.sunrisemovement.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.sunrisemovement.org/hubs"
+        }
+      ]
+    },
+    {
+      "id": "voting-rights",
+      "name": "Voting Rights / Election Access",
+      "organizations": [
+        {
+          "name": "League of Women Voters",
+          "mission": "Empowers voters and defends democracy through voter registration, education, and advocacy.",
+          "website": "https://www.lwv.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.lwv.org/local-leagues/find-local-league"
+        },
+        {
+          "name": "Vote.org",
+          "mission": "Uses technology to simplify voter registration and increase turnout.",
+          "website": "https://www.vote.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Fair Fight",
+          "mission": "Promotes fair elections and fights voter suppression through advocacy and litigation.",
+          "website": "https://fairfight.com",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Common Cause",
+          "mission": "Nonpartisan organization working to hold power accountable through voting rights and ethics reform.",
+          "website": "https://www.commoncause.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.commoncause.org/find-your-local-common-cause/"
+        }
+      ]
+    },
+    {
+      "id": "civil-rights",
+      "name": "Civil Rights / Racial Justice",
+      "organizations": [
+        {
+          "name": "NAACP",
+          "mission": "Nation's largest civil rights organization working for political, educational, social, and economic equality.",
+          "website": "https://naacp.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://naacp.org/find-local-unit"
+        },
+        {
+          "name": "ACLU",
+          "mission": "Defends individual rights and liberties guaranteed by the Constitution through litigation and advocacy.",
+          "website": "https://www.aclu.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.aclu.org/about/affiliates"
+        },
+        {
+          "name": "Color of Change",
+          "mission": "Online racial justice organization that helps people respond to injustice and hold corporations accountable.",
+          "website": "https://colorofchange.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Equal Justice Initiative",
+          "mission": "Provides legal representation and advocates for criminal justice reform and racial equity.",
+          "website": "https://eji.org",
+          "hasLocalChapters": false
+        }
+      ]
+    },
+    {
+      "id": "lgbtq",
+      "name": "LGBTQ+ Rights",
+      "organizations": [
+        {
+          "name": "Human Rights Campaign",
+          "mission": "Largest LGBTQ+ civil rights organization working for equality in policy, workplace, and communities.",
+          "website": "https://www.hrc.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.hrc.org/local-issues-national-impact"
+        },
+        {
+          "name": "PFLAG",
+          "mission": "Unites families, allies, and LGBTQ+ people through support, education, and advocacy.",
+          "website": "https://pflag.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://pflag.org/find-a-chapter/"
+        },
+        {
+          "name": "The Trevor Project",
+          "mission": "Provides crisis intervention and suicide prevention services for LGBTQ+ young people.",
+          "website": "https://www.thetrevorproject.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Lambda Legal",
+          "mission": "National legal organization fighting for civil rights of LGBTQ+ people and those with HIV.",
+          "website": "https://www.lambdalegal.org",
+          "hasLocalChapters": false
+        }
+      ]
+    },
+    {
+      "id": "immigration",
+      "name": "Immigration",
+      "organizations": [
+        {
+          "name": "American Immigration Lawyers Association",
+          "mission": "Provides legal education and advocates for fair immigration policy.",
+          "website": "https://www.aila.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.aila.org/about/chapters"
+        },
+        {
+          "name": "United We Dream",
+          "mission": "Largest immigrant youth-led network fighting for dignity and fair treatment of immigrants.",
+          "website": "https://unitedwedream.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://unitedwedream.org/our-network/"
+        },
+        {
+          "name": "RAICES",
+          "mission": "Provides legal services to underserved immigrant families and advocates for humane immigration.",
+          "website": "https://www.raicestexas.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "National Immigration Law Center",
+          "mission": "Defends and advances the rights of low-income immigrants through litigation and policy advocacy.",
+          "website": "https://www.nilc.org",
+          "hasLocalChapters": false
+        }
+      ]
+    },
+    {
+      "id": "housing",
+      "name": "Housing / Homelessness",
+      "organizations": [
+        {
+          "name": "National Alliance to End Homelessness",
+          "mission": "Analyzes policy and develops solutions to end homelessness nationwide.",
+          "website": "https://endhomelessness.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Habitat for Humanity",
+          "mission": "Builds and repairs homes alongside families in need, creating affordable homeownership.",
+          "website": "https://www.habitat.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.habitat.org/local"
+        },
+        {
+          "name": "National Low Income Housing Coalition",
+          "mission": "Advocates for policy solutions ensuring the lowest-income people have affordable homes.",
+          "website": "https://nlihc.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Family Promise",
+          "mission": "Mobilizes communities to help families experiencing homelessness achieve independence.",
+          "website": "https://familypromise.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://familypromise.org/find-your-local-affiliate/"
+        }
+      ]
+    },
+    {
+      "id": "education",
+      "name": "Education",
+      "organizations": [
+        {
+          "name": "Teach For America",
+          "mission": "Recruits and develops leaders to expand educational opportunity in under-resourced schools.",
+          "website": "https://www.teachforamerica.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.teachforamerica.org/where-we-work"
+        },
+        {
+          "name": "826 National",
+          "mission": "Network of writing and tutoring centers helping students become confident writers.",
+          "website": "https://826national.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://826national.org/locations/"
+        },
+        {
+          "name": "DonorsChoose",
+          "mission": "Connects donors directly with public school classroom project requests.",
+          "website": "https://www.donorschoose.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Big Brothers Big Sisters",
+          "mission": "Creates and supports mentoring relationships that ignite the potential in young people.",
+          "website": "https://www.bbbs.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.bbbs.org/find-a-local-agency/"
+        }
+      ]
+    },
+    {
+      "id": "healthcare",
+      "name": "Healthcare Access",
+      "organizations": [
+        {
+          "name": "Doctors Without Borders",
+          "mission": "Provides emergency medical care to people affected by conflict, epidemics, and disasters.",
+          "website": "https://www.doctorswithoutborders.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Remote Area Medical",
+          "mission": "Provides free pop-up clinics delivering dental, vision, and medical care to underserved communities.",
+          "website": "https://www.ramusa.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "National Association of Free & Charitable Clinics",
+          "mission": "Supports free clinics providing healthcare to the medically underserved.",
+          "website": "https://nafcclinics.org",
+          "hasLocalChapters": false,
+          "chapterFinderUrl": "https://nafcclinics.org/find-a-clinic/"
+        },
+        {
+          "name": "Health Care for the Homeless",
+          "mission": "Provides healthcare services and advocacy for people experiencing homelessness.",
+          "website": "https://nhchc.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://nhchc.org/membership/member-directory/"
+        }
+      ]
+    },
+    {
+      "id": "gun-safety",
+      "name": "Gun Safety / Violence Prevention",
+      "organizations": [
+        {
+          "name": "Everytown for Gun Safety",
+          "mission": "Advocates for gun violence prevention through research, policy, and grassroots organizing.",
+          "website": "https://www.everytown.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.everytown.org/movements/"
+        },
+        {
+          "name": "Moms Demand Action",
+          "mission": "Grassroots movement of Americans fighting for public safety measures to protect people from gun violence.",
+          "website": "https://momsdemandaction.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://momsdemandaction.org/join-a-local-group/"
+        },
+        {
+          "name": "Giffords",
+          "mission": "Founded by Gabby Giffords, fights for gun safety through legal and policy expertise.",
+          "website": "https://giffords.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Brady Campaign",
+          "mission": "Works to cut gun deaths in half by 2025 through policy, litigation, and community programs.",
+          "website": "https://www.bradyunited.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.bradyunited.org/brady-chapters"
+        }
+      ]
+    },
+    {
+      "id": "reproductive-rights",
+      "name": "Reproductive Rights",
+      "organizations": [
+        {
+          "name": "Planned Parenthood",
+          "mission": "Provides reproductive healthcare and advocates for access to sexual and reproductive health services.",
+          "website": "https://www.plannedparenthood.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.plannedparenthood.org/health-center"
+        },
+        {
+          "name": "NARAL Pro-Choice America",
+          "mission": "Advocates for reproductive freedom through political action and grassroots organizing.",
+          "website": "https://www.prochoiceamerica.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.prochoiceamerica.org/state/"
+        },
+        {
+          "name": "Center for Reproductive Rights",
+          "mission": "Uses law to advance reproductive rights as fundamental human rights worldwide.",
+          "website": "https://reproductiverights.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "National Abortion Federation",
+          "mission": "Professional association of abortion providers ensuring access to quality care.",
+          "website": "https://prochoice.org",
+          "hasLocalChapters": false
+        }
+      ]
+    },
+    {
+      "id": "religious-freedom",
+      "name": "Religious Freedom",
+      "organizations": [
+        {
+          "name": "Interfaith Alliance",
+          "mission": "Protects faith and freedom by championing religious liberty for all people.",
+          "website": "https://interfaithalliance.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://interfaithalliance.org/about/local-alliances/"
+        },
+        {
+          "name": "Americans United for Separation of Church and State",
+          "mission": "Defends religious freedom by ensuring government stays out of religion.",
+          "website": "https://www.au.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.au.org/take-action/chapters/"
+        },
+        {
+          "name": "Sikh Coalition",
+          "mission": "Defends civil rights and educates the public about Sikhs and religious freedom.",
+          "website": "https://www.sikhcoalition.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Council on American-Islamic Relations",
+          "mission": "Advocates for civil rights and promotes understanding of Islam and Muslims in America.",
+          "website": "https://www.cair.com",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://www.cair.com/chapters/"
+        }
+      ]
+    },
+    {
+      "id": "veterans",
+      "name": "Veterans / Military Families",
+      "organizations": [
+        {
+          "name": "Team Rubicon",
+          "mission": "Unites military veterans with first responders to deploy emergency response teams.",
+          "website": "https://teamrubiconusa.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://teamrubiconusa.org/join/"
+        },
+        {
+          "name": "Wounded Warrior Project",
+          "mission": "Serves veterans and service members who incurred physical or mental injury during service.",
+          "website": "https://www.woundedwarriorproject.org",
+          "hasLocalChapters": false
+        },
+        {
+          "name": "Blue Star Families",
+          "mission": "Supports military families through programs, research, and community engagement.",
+          "website": "https://bluestarfam.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://bluestarfam.org/chapters/"
+        },
+        {
+          "name": "The Mission Continues",
+          "mission": "Empowers veterans to find purpose through community impact and service.",
+          "website": "https://missioncontinues.org",
+          "hasLocalChapters": true,
+          "chapterFinderUrl": "https://missioncontinues.org/platoons/"
+        }
+      ]
+    }
+  ]
+}
